@@ -12,7 +12,7 @@
 
 ## Other Things
 - ⚽️ In my free time, I enjoy **Gaming** and **Gym/Soccer.**
-- 🎶 Music & Tech enthousiast.
+- 🎶 **Music & Tech** enthousiast.
 - 📫 You can reach me at **zakelijkps@gmail.com**
 
 Thanks for visiting my profile! Looking forward to collaborations and interesting projects. 😊
