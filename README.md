@@ -15,4 +15,4 @@
 - 🎶 **Music & Tech** enthousiast.
 - 📨 You can reach me at **zakelijkps@gmail.com**
 
-Thanks for visiting my profile! Looking forward to collaborations and interesting projects. 😊
+Thanks for visiting my profile! Looking forward to interesting projects. 😊
