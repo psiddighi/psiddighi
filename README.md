@@ -6,7 +6,7 @@
 - 📚 Currently studying as a **Webdeveloper.**
 
 ## 🎁 My Stacks
-- 🚀 Proficient in **HTML, CSS, JavaScript, PHP, MySQL & Databases.**
+- 🚀 Proficient in **HTML, CSS, JavaScript, PHP, SQL & Databases.**
 - 💻 Frameworks I use **CodeIgniter, Tailwind, React & MUI.**
 - 🎨 Basic experience with Adobe services **PhotoShop, Illustrator, Adobe XD & After Effects.**
 
