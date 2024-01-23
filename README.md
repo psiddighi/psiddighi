@@ -8,7 +8,7 @@
 ## 🎁 My Stacks
 - 🚀 Proficient in **HTML, CSS, JavaScript, PHP, SQL & Databases.**
 - 💻 Frameworks I use **CodeIgniter, Tailwind, React & MUI.**
-- 🎨 Basic experience with Adobe services **PhotoShop, Illustrator, Adobe XD & After Effects.**
+- 🎨 Basic experience with Adobe services **PhotoShop, Illustrator, LightRoom, Adobe XD & After Effects.**
 
 ## 🎭 Other Things
 - 🏋️‍♂️ In my free time, I enjoy **(Casual) Gaming** and **Gym/Soccer.**
