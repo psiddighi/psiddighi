@@ -7,7 +7,7 @@
 
 ## 🎁 My Stacks
 - 🚀 Proficient in **HTML, CSS, JavaScript, TypeScript, PHP, MySQL & Databases.**
-- 💻 Frameworks I use **CodeIgniter, Tailwind, React & MUI.**
+- 💻 Frameworks I use **CodeIgniter, Laravel, Tailwind & React.**
 - 🎨 Basic experience with Adobe services **PhotoShop, Illustrator, Lightroom, Adobe XD & After Effects.**
 
 ## 🎭 Other Things
