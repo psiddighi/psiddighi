@@ -11,7 +11,7 @@
 - 🎨 Basic experience with Adobe services **PhotoShop, Illustrator, Lightroom, Adobe XD & After Effects.**
 
 ## 🎭 Other Things
-- 🏋️‍♂️ In my free time, I enjoy **(Casual) Gaming** and **Gym/Soccer.**
+- 🏋️‍♂️ In my free time, I enjoy **(Casual) Gaming**, **watching Series/Movies** and **Gym/Soccer.**
 - 🎶 **Music & Tech** enthousiast.
 - 📨 You can reach me at **zakelijkps@gmail.com**
 
