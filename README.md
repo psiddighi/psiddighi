@@ -2,21 +2,16 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/026/128/253/original/lennart-butz-idea5anim5.gif?1587962321"  />
 </div>
 
 ###
 ____________________________________________________________________________________________________________________________________________
-<br clear="both">
 
-<p align="center">Skillset</p>
+<p align="center">𝗦𝗸𝗶𝗹𝗹𝘀𝗲𝘁</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -67,13 +62,10 @@ ________________________________________________________________________________
 </div>
 
 ###
-<br clear="both">
 
-<p align="center">Stats</p>
+<p align="center">𝗦𝘁𝗮𝘁𝘀</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psiddighi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -81,14 +73,10 @@ ________________________________________________________________________________
 </div>
 
 ###
-<br clear="both">
 
-<p align="center">Socials</p>
+<p align="center">𝗦𝗼𝗰𝗶𝗮𝗹𝘀</p>
 
 ###
-<br clear="both">
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parsa-siddighi/" target="_blank">
