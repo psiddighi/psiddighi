@@ -1,4 +1,4 @@
-<h2 align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙿𝚊𝚛𝚜𝚊 𝚂𝚒𝚍𝚍𝚒𝚐𝚑𝚒. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!</h2>
+<h4 align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙿𝚊𝚛𝚜𝚊 𝚂𝚒𝚍𝚍𝚒𝚐𝚑𝚒. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!</h4>
 
 ###
 
@@ -12,7 +12,7 @@
 ____________________________________________________________________________________________________________________________________________
 <br clear="both">
 
-<h3 align="center">Skillset</h3>
+<h5 align="center">Skillset</h5>
 
 ###
 
@@ -67,10 +67,9 @@ ________________________________________________________________________________
 </div>
 
 ###
-____________________________________________________________________________________________________________________________________________
 <br clear="both">
 
-<h3 align="center">Stats</h3>
+<h5 align="center">Stats</h5>
 
 ###
 
@@ -82,13 +81,13 @@ ________________________________________________________________________________
 </div>
 
 ###
-____________________________________________________________________________________________________________________________________________
 <br clear="both">
 
-<h3 align="center">Socials</h3>
+<h5 align="center">Socials</h5>
 
 ###
-____________________________________________________________________________________________________________________________________________
+<br clear="both">
+
 <br clear="both">
 
 <div align="center">
@@ -96,6 +95,18 @@ ________________________________________________________________________________
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/parsa-siddighi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/psiddighi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/Vr7AwwcwQ5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:zakelijkps@gmail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
