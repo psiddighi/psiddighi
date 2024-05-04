@@ -1,4 +1,4 @@
-<h4 align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙿𝚊𝚛𝚜𝚊 𝚂𝚒𝚍𝚍𝚒𝚐𝚑𝚒. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!</h4>
+<h3 align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙿𝚊𝚛𝚜𝚊 𝚂𝚒𝚍𝚍𝚒𝚐𝚑𝚒. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 ____________________________________________________________________________________________________________________________________________
 <br clear="both">
 
-<h5 align="center">Skillset</h5>
+<p align="center">Skillset</p>
 
 ###
 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 ###
 <br clear="both">
 
-<h5 align="center">Stats</h5>
+<p align="center">Stats</p>
 
 ###
 
@@ -83,7 +83,7 @@ ________________________________________________________________________________
 ###
 <br clear="both">
 
-<h5 align="center">Socials</h5>
+<p align="center">Socials</p>
 
 ###
 <br clear="both">
@@ -91,10 +91,6 @@ ________________________________________________________________________________
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/parsa-siddighi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
