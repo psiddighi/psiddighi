@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/026/128/253/original/lennart-butz-idea5anim5.gif?1587962321"  />
+  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/026/128/253/original/lennart-butz-idea5anim5.gif?1587962321"/>
 </div>
 
 ###
