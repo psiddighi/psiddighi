@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
