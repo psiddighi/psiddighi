@@ -76,11 +76,12 @@
 
 ###
 ---
-<div style="display: flex; align-items: center;">
-  <img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif" style="margin-right: 20px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psiddighi&theme=github-dark" />
-</div>
-
+<p align="left">
+  <img height="175" src="https://giffiles.alphacoders.com/222/222864.gif" />
+</p>
+<p align="right">
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psiddighi&theme=github-dark)
+</p>
 
 
 ###
