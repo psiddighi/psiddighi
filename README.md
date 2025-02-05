@@ -93,7 +93,8 @@
 ![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
 
 <br/>  
-
+<br/>
+<br/>  
 
 ## Recent Blog Posts  
 <div align="center">
