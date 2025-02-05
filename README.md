@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
