@@ -89,7 +89,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="150" width="300" />
+<img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="140" width="290" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiddighi&hide_border=true&layout=compact" align="left" />  
 </div>  
 
