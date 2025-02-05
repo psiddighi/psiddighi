@@ -47,13 +47,21 @@
 <br/>  
 
 
-## Connect with me  
-<a href="https://instagram.com/iamrishavanandhttps://www.instagram.com/psiddighi/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://nl.linkedin.com/in/parsa-siddighi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<h4 align="left">📨 𝚆𝚊𝚗𝚝 𝚃𝚘 𝙲𝚘𝚗𝚗𝚎𝚌𝚝?</h4>
+
+###
+
+<img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
+
+###
   
 
 <br/>  
