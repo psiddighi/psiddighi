@@ -78,4 +78,7 @@
 ---
 <img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif"  />
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psiddighi&theme=github-dark)
+
+
 ###
