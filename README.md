@@ -91,7 +91,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiddighi&hide_border=true&layout=compact" align="left" />  
  
 <div align="center">
-<img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="200" width="350" />
+<img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="150" width="300" />
 </div>  
 
 <br/>  
