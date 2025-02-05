@@ -1,7 +1,6 @@
 <h3 align="center">Tech Stack</h3>
 
 ###
-
 <img align="right" height="175" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif"  />
 
 ###
@@ -39,7 +38,7 @@
 </div>
 
 ###
-
+---
 <h3 align="center">Creative Tools</h3>
 
 ###
@@ -57,12 +56,12 @@
 </div>
 
 ###
-
+---
 <p align="center">Connect?</p>
 
 ###
 
-<img align="left" height="200" src="https://giffiles.alphacoders.com/222/222864.gif"  />
+<img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif"  />
 
 ###
 
