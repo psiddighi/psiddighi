@@ -1,7 +1,7 @@
 <h3 align="center">Tech Stack</h3>
 
 ###
-<img align="right" height="145" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif"  />
+<img align="right" height="140" src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif"  />
 
 ###
 
