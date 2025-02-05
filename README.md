@@ -79,9 +79,11 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="right">
   <a href="https://open.spotify.com/user/Parsa Siddighi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Parsa%20Siddighi&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Parsa%20Siddighi&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
 
