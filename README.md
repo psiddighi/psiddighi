@@ -2,26 +2,16 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif" align="center" style="width: 75%" />
 </div>  
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
 
 <br/>  
 
 
 ## My Skill Set  
-<div align="center">
+<img align="right" height="175" src="https://camo.githubusercontent.com/48f102d4db1c5f59483b2aa12a37ceee3752088ca8d03f54ba7c36cf48661f0b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032362f3132382f3235332f6f726967696e616c2f6c656e6e6172742d6275747a2d6964656135616e696d352e6769663f31353837393632333231"  />
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
