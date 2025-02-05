@@ -47,11 +47,11 @@
 
 ###
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h4 align="center">🎨 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚃𝚘𝚘𝚕𝚜</h4>
+<h4 align="left">🎨 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚃𝚘𝚘𝚕𝚜</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
