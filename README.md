@@ -90,8 +90,6 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiddighi&hide_border=true&layout=compact" align="left" />  
 
-![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
-
 <br/>  
 <br/>
 <br/>  
