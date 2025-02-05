@@ -1,13 +1,13 @@
 ### **<div align="center">👋 I'm Parsa Siddighi, I study webdevelopment. Looking forward to creating digital projects!</div>**  
 <div align="center">
-<img src="https://64.media.tumblr.com/3383aba0ca27e0e62ffa3799079ac5cb/f5c53726216c7651-f2/s500x750/4a0feee08229b4029bb715df9f9d7598bda24c48.gifv" align="center" style="width: 65%" />
+<img src="https://camo.githubusercontent.com/48f102d4db1c5f59483b2aa12a37ceee3752088ca8d03f54ba7c36cf48661f0b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032362f3132382f3235332f6f726967696e616c2f6c656e6e6172742d6275747a2d6964656135616e696d352e6769663f31353837393632333231" align="center" style="width: 65%" />
 </div>  
 
 <br/>  
 
 
 ## My Skill Set  
-<img align="right" height="210" src="https://camo.githubusercontent.com/48f102d4db1c5f59483b2aa12a37ceee3752088ca8d03f54ba7c36cf48661f0b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032362f3132382f3235332f6f726967696e616c2f6c656e6e6172742d6275747a2d6964656135616e696d352e6769663f31353837393632333231"  />
+<img align="right" height="210" src="https://https://64.media.tumblr.com/3383aba0ca27e0e62ffa3799079ac5cb/f5c53726216c7651-f2/s500x750/4a0feee08229b4029bb715df9f9d7598bda24c48.gifv  />
 
 ###
 
