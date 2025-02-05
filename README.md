@@ -77,16 +77,9 @@
 
 ###
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="right">
-  <a href="https://open.spotify.com/user/Parsa Siddighi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Parsa%20Siddighi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
 <img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif"  />
+
+![Spotify Recently Played](https://<JOUW-VERCEL-DEPLOY-URL>/api/spotify)
+
 
 ###
