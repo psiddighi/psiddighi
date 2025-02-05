@@ -95,8 +95,6 @@
 <br/>  
 <br/>
 <br/>  
-
-## Recent Blog Posts  
 <div align="center">
 <img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="200" width="350" />
 </div>  
