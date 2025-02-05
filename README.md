@@ -1,6 +1,6 @@
 ### **<div align="center">👋 I'm Parsa Siddighi, I study webdevelopment. Looking forward to creating digital projects!</div>**  
 <div align="center">
-<img src="[https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif](https://64.media.tumblr.com/3383aba0ca27e0e62ffa3799079ac5cb/f5c53726216c7651-f2/s500x750/4a0feee08229b4029bb715df9f9d7598bda24c48.gifv)" align="center" style="width: 75%" />
+<img src="https://64.media.tumblr.com/3383aba0ca27e0e62ffa3799079ac5cb/f5c53726216c7651-f2/s500x750/4a0feee08229b4029bb715df9f9d7598bda24c48.gifv" align="center" style="width: 75%" />
 </div>  
 
 <br/>  
