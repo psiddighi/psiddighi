@@ -75,10 +75,6 @@
 
 ###
 ---
-<div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psiddighi&theme=github-dark" />
-</div>
-
 
 ###
 <div align="center">
