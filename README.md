@@ -93,7 +93,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/parsa-siddighi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
