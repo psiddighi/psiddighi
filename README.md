@@ -1,20 +1,23 @@
-<h3 align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸 𝚜𝚝𝚞𝚍𝚢 𝚠𝚎𝚋𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.<br>𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜!</h3>
-<div align="center">
-<img src="https://camo.githubusercontent.com/48f102d4db1c5f59483b2aa12a37ceee3752088ca8d03f54ba7c36cf48661f0b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032362f3132382f3235332f6f726967696e616c2f6c656e6e6172742d6275747a2d6964656135616e696d352e6769663f31353837393632333231" align="center" style="width: 65%" />
-</div>  
+<h3 data-importer="text" align="center">👋 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎, 𝙸 𝚜𝚝𝚞𝚍𝚢 𝚠𝚎𝚋𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝. 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.<br>𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜!</h3>
 
-<br/>  
+###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="250" src="https://cdnb.artstation.com/p/assets/images/images/026/128/253/original/lennart-butz-idea5anim5.gif?1587962321"  />
+</div>
 
-### My Skill Set
----
-<img align="right" height="200" src="https://64.media.tumblr.com/3383aba0ca27e0e62ffa3799079ac5cb/f5c53726216c7651-f2/s500x750/4a0feee08229b4029bb715df9f9d7598bda24c48.gif" />
+###
 
-###  
-<div align="left">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -22,61 +25,77 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <br/>
-</div>
-<br/>
-<br/>  
-<br/>
-
-###
----
-<h4 align="left">📨 𝚆𝚊𝚗𝚝 𝚃𝚘 𝙲𝚘𝚗𝚗𝚎𝚌𝚝?</h4>
-
-###
-
-<img align="left" height="175" src="https://giffiles.alphacoders.com/222/222864.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
-  
-<br/>
-<br/>
-<br/>
 
-<br/>  
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
----
-<div align="center">
-<img src="https://giffiles.alphacoders.com/966/9667.gif" align="center" height="140" width="290" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psiddighi&hide_border=true&layout=compact" align="left" />  
-</div>  
 
-<br/>  
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/parsa-siddighi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="Parsa.siddighi@mind-labs.eu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="35" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
