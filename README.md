@@ -25,6 +25,7 @@
 ###
 
 <div data-importer="techs" align="left">
+
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
 
@@ -107,6 +108,7 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
+
 </div>
 
 ###
@@ -120,19 +122,26 @@
 
 ###
 
+<!-- ========================= -->
+<!--       GITHUB STATS        -->
+<!-- ========================= -->
+
 <div data-importer="stats" align="center">
 
-  <!-- GitHub Trophy -->
+  <!-- TROPHIES -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=psiddighi&theme=alduin&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=psiddighi&theme=alduin&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true"
     height="150"
     alt="GitHub trophies"
   />
 
-  <!-- GitHub Activity Graph -->
+  <br>
+  <br>
+
+  <!-- ACTIVITY GRAPH -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=psiddighi&radius=16&theme=tokyo-day&area=true&custom_title=Activity&hide_border=false&hide_title=false"
-    height="300"
+    width="95%"
     alt="GitHub activity graph"
   />
 
